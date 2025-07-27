@@ -1,0 +1,3 @@
+productid,productname,productprice,productquantity
+1,rice,40,50
+2,wheat,40,50

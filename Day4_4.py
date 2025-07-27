@@ -1,0 +1,22 @@
+'''
+    *
+   **
+  ***
+ ****
+*****
+'''
+n=5
+i=0
+while(i<n):
+    num_of_space=n-i-1
+    j=0
+    while(j<num_of_space):
+        print(" ",end='')
+        j=j+1
+    num_of_stars=i+1
+    k=0
+    while(k<num_of_stars):
+        print("*",end='')
+        k=k+1
+    print()
+    i=i+1

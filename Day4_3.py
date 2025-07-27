@@ -1,0 +1,17 @@
+'''
+*
+**
+***
+****
+*****
+'''
+n=5
+i=0
+while(i<n):
+    num_of_stars=i+1
+    j=0
+    while(j<n):
+        print("*",end='')
+        j=j+1
+    print()
+    i=i+1

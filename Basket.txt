@@ -1,0 +1,3 @@
+productname, productquantity
+s	4
+f	5
