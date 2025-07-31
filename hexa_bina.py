@@ -9,4 +9,4 @@ def print_formatted(number):
 
 if __name__=="__main__":
     n=int(input("Enter the number: "))
-    print(print_formatted(n))
+    print(print_formatted)
