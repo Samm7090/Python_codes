@@ -6,5 +6,5 @@ b1=bank("Raju",400) #account is created
 #b1.deposite()
 #b2.withdraw()
 
-print("Current balance of: ",b1.check_balance())
+print("Current balance is: ",b1.check_balance())
 
