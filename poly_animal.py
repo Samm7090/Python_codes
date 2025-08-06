@@ -10,7 +10,7 @@ class Cat(Animal):
     def speak(self):
         return "Meow!"
 
-# Polymorphic behavior
+
 animals = [Dog(), Cat(), Animal()]
 
 for animal in animals:
