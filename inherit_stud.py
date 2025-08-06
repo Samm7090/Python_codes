@@ -1,9 +1,10 @@
 from Inherit_person import person
 
-class student(person):
+# Child class
+class student(person):      # Inheriting from Person
 
     def __init__(self, name, age,marks):
-        super().__init__(name, age)
+        super().__init__(name, age)     # Call the parent constructor
         self.marks=marks
 
     def show_student_info(self):
